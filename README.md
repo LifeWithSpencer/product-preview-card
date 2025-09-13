@@ -26,7 +26,7 @@ Another part was adding hover and focus states to the button. This was important
 
 ### Screenshot
 
-![Mobile view](/product-preview-card-component-main/Outcome/mobile_preview.jpeg)
+![Desktop](/product-preview-card-component-main/image_screenshot/desktop.png)
 
 
 ### Links
