@@ -107,7 +107,7 @@ button:hover{
     transition: 0.3s;
 }
 footer {
-    position: sticky;
+    position: absolute;
     bottom: 19em;
     left: 0;
     width: 100%;
