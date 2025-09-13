@@ -30,8 +30,8 @@ Another part was adding hover and focus states to the button. This was important
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify: "https://product-preview-card-9228.netlify.app/"]("https://product-preview-card-9228.netlify.app/")
+- Solution URL: [Github](https://github.com/LifeWithSpencer/product-preview-card.git)
+- Live Site URL: [Netlify](https://product-preview-card-9228.netlify.app/)
 
 ## My process
 
@@ -99,9 +99,9 @@ In future projects, I want to keep improving my responsiveness by practicing how
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@LifeWithSpencer]("https://www.frontendmentor.io/profile/LifeWithSpencer")
-- Twitter - [@lifewithspencer]("https://x.com/lifewithspencer?t=4cus2ODv5bB2Vp1TFgaOrA&s=08")
+- Website - [Asafa Mahfuz Abiodun](https://github.com/LifeWithSpencer)
+- Frontend Mentor - [@LifeWithSpencer](https://www.frontendmentor.io/profile/LifeWithSpencer)
+- Twitter - [@lifewithspencer](https://x.com/lifewithspencer?t=4cus2ODv5bB2Vp1TFgaOrA&s=08)
 
 
 ## Acknowledgments
