@@ -16,8 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,7 +31,7 @@ Another part was adding hover and focus states to the button. This was important
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify]("https://product-preview-card-9228.netlify.app/")
+- Live Site URL: [Netlify: "https://product-preview-card-9228.netlify.app/"]("https://product-preview-card-9228.netlify.app/")
 
 ## My process
 
